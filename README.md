@@ -1,2 +1,2 @@
 # mc-forge-gradle-common
-Common Gradle file for Minecraft Forge Modding
+Common Gradle files for Minecraft Forge Modding
